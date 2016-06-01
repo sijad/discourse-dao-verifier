@@ -1,0 +1,7 @@
+plugins:
+  dao_group:
+    default: ''
+    enum: 'DaoGroupSetting'
+  dao_field:
+    default: ''
+    enum: 'DaoFieldSetting'
